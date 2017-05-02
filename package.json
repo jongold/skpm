@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/sketch-pm/skpm-cli#readme",
   "devDependencies": {
+    "friendly-errors-webpack-plugin": "^1.6.1",
     "standard": "^9.0.2"
   },
   "dependencies": {
